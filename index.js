@@ -1,2 +1,3 @@
-const num = 1 + 1;
-console.log(num);
+const userObj = require('./ppl');
+
+console.log(userObj.people);
