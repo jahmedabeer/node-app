@@ -10,5 +10,8 @@
     "eslint-plugin-import": "2.25.2",
     "eslint-plugin-prettier": "^5.4.1",
     "prettier": "^3.5.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }
